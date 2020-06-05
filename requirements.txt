@@ -5,4 +5,4 @@ MarkupSafe >= 0.23
 Jinja2 == 2.11.1
 tensorflow == 2.1.0
 numpy == 1.18.1
-PIL == 7.1.2
+pillow == 7.1.2
